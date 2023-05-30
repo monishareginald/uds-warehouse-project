@@ -1,3 +1,4 @@
 
 census_2019.json
 tract_geometries.json
+*.GPKG
