@@ -2,3 +2,6 @@
 census_2019.json
 tract_geometries.json
 *.GPKG
+data/scag_riverside_cleaned.csv
+data/scag_san_bernardino_cleaned.csv
+SCAG_clean.csv
