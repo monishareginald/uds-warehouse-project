@@ -5,3 +5,4 @@ tract_geometries.json
 data/scag_riverside_cleaned.csv
 data/scag_san_bernardino_cleaned.csv
 SCAG_clean.csv
+data/join_scag_to_parcels_left_2019.csv
