@@ -13,3 +13,4 @@ archive/Neuralnet_withCensus.ipynb
 *.csv
 all_data_joined_2010.csv
 data/all_data_joined_2020.csv
+RF with Census 20 Importances.ipynb
