@@ -7,3 +7,9 @@ data/scag_san_bernardino_cleaned.csv
 SCAG_clean.csv
 data/join_scag_to_parcels_left_2019.csv
 predictions_neuralnet1.csv
+data/all_data_joined_2020.csv
+all_data_joined_2010.csv
+archive/Neuralnet_withCensus.ipynb
+*.csv
+all_data_joined_2010.csv
+data/all_data_joined_2020.csv
